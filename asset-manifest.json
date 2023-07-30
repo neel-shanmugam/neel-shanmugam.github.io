@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.915a12b7.css",
+    "main.js": "/static/js/main.2ab4af3b.js",
+    "static/js/787.b701888c.chunk.js": "/static/js/787.b701888c.chunk.js",
+    "static/media/ColumbiaUniversityLogo.png": "/static/media/ColumbiaUniversityLogo.6b1d3042cbf55079be2c.png",
+    "static/media/ResearchOrganization.png": "/static/media/ResearchOrganization.1a7dfc422953ba9f76e8.png",
+    "index.html": "/index.html",
+    "main.915a12b7.css.map": "/static/css/main.915a12b7.css.map",
+    "main.2ab4af3b.js.map": "/static/js/main.2ab4af3b.js.map",
+    "787.b701888c.chunk.js.map": "/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915a12b7.css",
+    "static/js/main.2ab4af3b.js"
+  ]
+}
